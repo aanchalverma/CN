@@ -1,0 +1,38 @@
+Part A
+1 Implementing three nodes point to point network with duplex links
+between them.
+
+2 Implementing transmission of ping messages /trace router over a
+network topology consisting of 6 nodes.
+
+3 Implementing an Ethernet LAN using n nodes and setting multiple
+traffic nodes and plotting congestion window for different
+source/destination.
+
+4 Implementing simple ESS and with transmitting nodes in wireless
+LAN by simulation.
+
+5 Implementing and studying performance of GSM on NS2/NS3 or a
+equivalent environment.
+
+6 Implementing and studying the performance of CDMA on NS2/NS3 or
+equivalent Environment.
+
+
+Part B
+
+7 Program for detecting code using CRC-CCITT. 
+
+8 Program to find the shortest path between vertices using bellman-ford
+algorithm.
+
+9 Using TCP/IP sockets ,client-server program to make the client to send
+the file name and to make the server send back the contents of
+requested file if present.
+
+10 Program on datagram socket for client/server to display the messages
+on client side,typed at the server side.
+
+11 Program for simple RSA algorithm to encrypt and decrypt the data. 
+
+12 Program for congestion control using leaky bucket algorithm. 
